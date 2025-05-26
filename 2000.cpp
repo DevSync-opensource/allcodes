@@ -5,7 +5,7 @@ int main()
 {
     int N;
     cin >> N;
-    cout << (N * 2000) / 1000 << endl;
+    cout << (N * 2000) / 5000 << endl;
 
     return 0;
 }
